@@ -1,0 +1,4 @@
+applications:
+  - name: WhatsAppBot
+    random-route: true
+    memory: 256M
